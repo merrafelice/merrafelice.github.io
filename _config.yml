@@ -4,7 +4,7 @@ baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-remote_theme: ankitsultana/researcher@gem
+#remote_theme: ankitsultana/researcher@gem
 tracking_id: #
 
 footer: yes
