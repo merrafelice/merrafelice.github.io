@@ -21,4 +21,4 @@ is_contact: true
 
 ## Social
 
-1. [Twitter](#@merrafelice)
+1. [Twitter](https://twitter.com/merrafelice)
