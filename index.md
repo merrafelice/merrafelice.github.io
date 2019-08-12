@@ -6,18 +6,14 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-PhD Student of Security and Adversarial Machine Learning. Polytechnic of Bari @PolibaOfficial
+I'm Felice Antonio Merra [@merrafelice](https://twitter.com/merrafelice), PhD Student of Security and Adversarial Machine Learning. Polytechnic of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial)
 
 
 ## Research Interest
 
-Adversarial Machine Learning
-
-Recommender Systems
-
-Security in Recommender Systems
-
-Deep Learning
+* Security/stability of recommender systems (adverserial learning, shilling attacks)
+* Cross-Domain Social-aware Recommender Systems
+* Adversarial Machine Learning and Deep Learning in Information Retrieval and Recommender Systems
 
 ## Publications
 
