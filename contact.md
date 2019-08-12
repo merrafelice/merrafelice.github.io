@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+39-3404213560](tel:+39-3404213560)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 4, Via Edoardo Orabona
 >
-> London
+> Bari
 >
-> United Kingdom
+> Italy
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](#@merrafelice)
