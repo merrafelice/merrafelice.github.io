@@ -7,15 +7,7 @@ is_contact: true
 
 * Phone: [+39-3404213560](tel:+39-3404213560)
 
----
-
-## Mailing Address
-
-> 4, Via Edoardo Orabona
->
-> Bari
->
-> Italy
+* Mailing Address: Via Edoardo Orabona, 4, Bari, Italy
 
 ---
 
