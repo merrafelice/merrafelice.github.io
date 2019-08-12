@@ -22,3 +22,4 @@ is_contact: true
 ## Social
 
 1. [Twitter](https://twitter.com/merrafelice)
+2. [LinkedIn](https://www.linkedin.com/in/feliceantoniomerra)
