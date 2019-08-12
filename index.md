@@ -21,7 +21,9 @@ I am earning my Ph.D. in Computer Science and Engineering at Department of Elect
 
 ## Publications
 
-1. **Felice Antonio Merra**,Yashar Deldjoo, Tommaso Di Noia, Assessing the Impact of a User-Item Collaborative Attack on Class of Users, The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019
+1. Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, Assessing the Impact of a User-Item Collaborative Attack on Class of Users, The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019
+
+\* Corresponding Author
 
 ## News
 If you are interested in my research interestes please send me an email directly.
