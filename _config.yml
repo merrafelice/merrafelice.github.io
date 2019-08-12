@@ -1,7 +1,7 @@
-remote_theme: ankitsultana/researcher@gem
 title: Merra Felice Antonio
 url: "http://merrafelice.github.io"
-baseurl: "/researcher"
+#baseurl: "/researcher"
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
