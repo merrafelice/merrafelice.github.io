@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## About Me
-<div>
 
 <img class="profile-picture" src="profile.jpg">
 
@@ -13,7 +12,6 @@ I am earning my Ph.D. in Computer Science and Engineering at Department of Elect
 
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
-</div>
 
 ## Research Interest
 
