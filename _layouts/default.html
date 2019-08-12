@@ -76,7 +76,11 @@
         </div>
         <div style="clear:both"></div>
         <hr>
-    
+        {% if page.is_contact == true %}
+            <div class="container content contact">
+        {% else %}
+            <div class="container content">
+        {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
                     <hr />
