@@ -5,8 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-<br />
-<br />
+
 *Welcome!* I am Felice Antonio Merra [@merrafelice](https://twitter.com/merrafelice) a PhD Student working on Security and Adversarial Machine Learning on Recommender Systems. 
 
 I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
