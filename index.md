@@ -4,6 +4,7 @@ layout: default
 
 ## About Me
 
+<img class="profile-picture" src="profile.jpg">
 
 *Welcome!* I am Felice Antonio Merra [@merrafelice](https://twitter.com/merrafelice), PhD Student working on Security and Adversarial Machine Learning on Recommender Systems. 
 
