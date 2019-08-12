@@ -11,13 +11,13 @@ PhD Student of Security and Adversarial Machine Learning. Polytechnic of Bari @P
 
 ## Research Interest
 
-. Adversarial Machine Learning
+Adversarial Machine Learning
 
-. Recommender Systems
+Recommender Systems
 
-. Security in Recommender Systems
+Security in Recommender Systems
 
-. Deep Learning
+Deep Learning
 
 ## Publications
 
