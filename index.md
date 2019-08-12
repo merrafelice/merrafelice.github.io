@@ -11,7 +11,7 @@ I'm Felice Antonio Merra [@merrafelice](https://twitter.com/merrafelice), PhD St
 
 ## Research Interest
 
-* Security/stability of recommender systems (adverserial learning, shilling attacks)
+* Security and Robustness of Recommender Systems (shilling and adversarial learning attacks)
 * Cross-Domain Social-aware Recommender Systems
 * Adversarial Machine Learning and Deep Learning in Information Retrieval and Recommender Systems
 
