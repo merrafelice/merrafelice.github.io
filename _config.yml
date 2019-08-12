@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "Home"
-   link: "/"
+   link: "http://merrafelice.github.io"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
