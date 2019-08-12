@@ -6,6 +6,7 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 #remote_theme: ankitsultana/researcher@gem
 tracking_id: #
+remote_theme: ankitsultana/researcher@gem
 
 footer: yes
 footer_url: "https://github.com/merrafelice"
