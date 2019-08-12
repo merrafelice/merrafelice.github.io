@@ -1,5 +1,5 @@
 title: Merra Felice Antonio
-url: "https://merrafelice.github.io"
+url: "http://merrafelice.github.io"
 baseurl: "/"
 
 markdown: kramdown
@@ -8,7 +8,7 @@ remote_theme: ankitsultana/researcher@gem
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/merrafelice"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
