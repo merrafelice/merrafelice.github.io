@@ -22,3 +22,16 @@ nav:
  - name: "Resume"
    link: "resume.pdf"
 
+plugins:
+  - jekyll-seo-tag
+
+# Tags
+description: "Felice Antonio Merra's Personal Blog. Follow my research activity! @merrafelice"
+author: "Felice Antonio Merra"
+
+twitter:
+  username: merrafelice
+  card: "Felice Antonio Merra's Personal Blog. Follow my research activity! @merrafelice"
+
+image: /profile.jpg
+lang: english
