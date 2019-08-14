@@ -21,6 +21,10 @@
         {% assign url = site.url | append: site.baseurl | append: page.url %}
     {% endif %}
     <meta name="description" content="{{ desc }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
@@ -61,21 +65,45 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
-            <ul id="navlist" class="alignable pull-right navbar-ul">
-                {% for x in site.nav %}
-                    {% if x.name == "Resume" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
-                    {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
-                    {% endif %}
-                    {% if forloop.last == false %}
-                        /
-                    {% endif %}
-                        </li>
-                {% endfor %}
-            </ul>
+            <div class="row">
+                <div class="col-sm-8">
+                    <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a></div>
+                <div class="col-sm-4">
+                    <div>
+                        <ul id="navlist" class="alignable pull-right navbar-ul" style="display: flex;    justify-content: center;">
+                            {% for x in site.nav %}
+                            {% if x.name == "Resume" %}
+                            <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                            {% else %}
+                            <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                            {% endif %}
+                            {% if forloop.last == false %}
+                            /
+                            {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+<!--            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>-->
+<!--            <ul id="navlist" class="alignable pull-right navbar-ul">-->
+<!--                {% for x in site.nav %}-->
+<!--                    {% if x.name == "Resume" %}-->
+<!--                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>-->
+<!--                    {% else %}-->
+<!--                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>-->
+<!--                    {% endif %}-->
+<!--                    {% if forloop.last == false %}-->
+<!--                        /-->
+<!--                    {% endif %}-->
+<!--                        </li>-->
+<!--                {% endfor %}-->
+<!--            </ul>-->
         </div>
+
+
+
         <div style="clear:both"></div>
         <hr>
         {% if page.is_contact == true %}
