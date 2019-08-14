@@ -101,26 +101,46 @@
 <!--                {% endfor %}-->
 <!--            </ul>-->
         </div>
-
-
-
         <div style="clear:both"></div>
         <hr>
-        {% if page.is_contact == true %}
-            <div class="container content contact">
-        {% else %}
-            <div class="container content">
-        {% endif %}
-                {{ content }}
-                {% if site.footer == true %}
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                        <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}.</small></a>
-                        <small>Icons made by </small><a href="https://www.flaticon.com/authors/darius-dan" title="Darius Dan" style="color: black"><small>Darius Dan</small></a>
-                        <small> from </small><a href="https://www.flaticon.com/" title="Flaticon" style="color: black"><small>www.flaticon.com</small></a>
-                        <small> is licensed by </small><a href="http://creativecommons.org/licenses/by/3.0/"  title="Creative Commons BY 3.0" style="color: black" target="_blank"><small>CC 3.0 BY</small></a>
-                    </p>
-                {% endif %}
+
+        <div class="container content">
+            <div class="row">
+                <div class="col-sm-3">
+                    <img class="profile-picture" src="profile.jpg">
+                    {% include share.html %}
+                </div>
+                <div class="col-sm-9">
+<!--                    <h2 id="about-me">About Me</h2>-->
+
+<!--                    <p><em>Welcome!</em> I am Felice Antonio Merra <a href="https://twitter.com/merrafelice">@merrafelice</a> a PhD Student working on Security and Adversarial Machine Learning on Recommender Systems.</p>-->
+
+<!--                    <p>I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari <a href="https://twitter.com/PolibaOfficial">@PolibaOfficial</a> working with Prof. Tommaso Di Noia.</p>-->
+
+<!--                    <p><strong>Email</strong>: <a href="mailto:felice.merra@poliba.it">felice.merra@poliba.it</a></p>-->
+
+<!--                    {% if page.is_contact == true %}-->
+<!--                    <div class="container content contact">-->
+<!--                        {% else %}-->
+                    <!--                            {% endif %}-->
+
+                    <div class="container content">
+                            {{ content }}
+                        </div>
+
+                </div>
+            </div>
+        </div>
+
+
+<!--        {% if page.is_contact == true %}-->
+<!--            <div class="container content contact">-->
+<!--        {% else %}-->
+<!--            <div class="container content">-->
+<!--        {% endif %}-->
+<!--                {{ content }}-->
+<!--                </div>-->
+
             </div>
     </div>
 
@@ -136,4 +156,13 @@
     {% endif %}
 </body>
 <footer>
+    {% if site.footer == true %}
+    <hr />
+    <p style="text-align: center; margin-bottom: 10px">
+        <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}.</small></a>
+        <small>Icons made by </small><a href="https://www.flaticon.com/authors/darius-dan" title="Darius Dan" style="color: black"><small>Darius Dan</small></a>
+        <small> from </small><a href="https://www.flaticon.com/" title="Flaticon" style="color: black"><small>www.flaticon.com</small></a>
+        <small> is licensed by </small><a href="http://creativecommons.org/licenses/by/3.0/"  title="Creative Commons BY 3.0" style="color: black" target="_blank"><small>CC 3.0 BY</small></a>
+    </p>
+    {% endif %}
 </footer>

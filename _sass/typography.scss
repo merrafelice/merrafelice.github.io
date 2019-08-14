@@ -8,7 +8,7 @@
         counter-reset: list;
     }
     ol > li {
-        list-style-position: none;
+        list-style-position: unset;
         position: relative;
         list-style: none;
         margin-top: 5px;
@@ -41,7 +41,7 @@
         width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
-        float: right;
+        //float: right;
         border-radius: 50%;
         p & {
             padding: 0;
@@ -52,6 +52,9 @@
                 margin-top: -5px;
             }
         }
+
+        margin: auto;
+        display: block;
     }
     img {
         text-align: center;

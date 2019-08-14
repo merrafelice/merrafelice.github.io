@@ -94,10 +94,10 @@ hr {
 
 @media (max-width: 650px) {
     .container {
-        max-width: 83%;
+        max-width: 95%;
     }
     .navbar-ul {
-        margin-top: 5px;
+        margin-top: 7px;
     }
 }
 
@@ -135,3 +135,45 @@ hr {
 
 @import "typography";
 @import "tables";
+
+
+// CSS ICON SOCIAL
+/* Share buttons */
+.sharebuttons {
+  margin: 0 auto 0 auto;
+}
+
+.sharebuttons ul {
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+
+.sharebuttons ul li {
+  display: inline;
+}
+
+.sharebuttons ul li a {
+  text-decoration: none;
+}
+
+.sharebuttons ul li svg {
+  width: 24px;
+  height: 24px;
+}
+
+
+.sharebuttons .twitter svg {
+  fill: #1DA1F2;
+}
+
+.sharebuttons .linkedin svg {
+  fill: #0077B5;
+}
+
+.sharebuttons .github svg {
+  fill: #181717;
+}
+
+.sharebuttons .researchgate svg {
+  fill: #00CCBB;
+}
