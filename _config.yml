@@ -1,11 +1,12 @@
 title: Felice Antonio Merra
 url: "http://merrafelice.github.io"
-#baseurl: "/researcher"
+baseurl: ""
+
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-#remote_theme: ankitsultana/researcher@gem
+
 tracking_id: UA-145520672-1
 
 footer: yes
@@ -34,4 +35,5 @@ twitter:
   card: "Felice Antonio Merra's Personal Blog. Follow my research activity! @merrafelice"
 
 image: /profile.jpg
+#image: /felice-merra.png
 lang: english
