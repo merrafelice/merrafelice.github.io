@@ -157,23 +157,23 @@ hr {
 }
 
 .sharebuttons ul li svg {
-  width: 24px;
-  height: 24px;
+  width: 24px !important;
+  height: 24px !important;
 }
 
 
 .sharebuttons .twitter svg {
-  fill: #1DA1F2;
+  fill: #1DA1F2 !important;
 }
 
 .sharebuttons .linkedin svg {
-  fill: #0077B5;
+  fill: #0077B5 !important;
 }
 
 .sharebuttons .github svg {
-  fill: #181717;
+  fill: #181717 !important;
 }
 
 .sharebuttons .researchgate svg {
-  fill: #00CCBB;
+  fill: #00CCBB !important;
 }
