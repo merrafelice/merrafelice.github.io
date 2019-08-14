@@ -156,13 +156,16 @@
     {% endif %}
 </body>
 <footer>
+
     {% if site.footer == true %}
-    <hr />
-    <p style="text-align: center; margin-bottom: 10px">
-        <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}.</small></a>
-        <small>Icons made by </small><a href="https://www.flaticon.com/authors/darius-dan" title="Darius Dan" style="color: black"><small>Darius Dan</small></a>
-        <small> from </small><a href="https://www.flaticon.com/" title="Flaticon" style="color: black"><small>www.flaticon.com</small></a>
-        <small> is licensed by </small><a href="http://creativecommons.org/licenses/by/3.0/"  title="Creative Commons BY 3.0" style="color: black" target="_blank"><small>CC 3.0 BY</small></a>
-    </p>
+    <div class="container content">
+        <hr />
+        <p style="text-align: center; margin-bottom: 10px">
+            <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}.</small></a>
+            <small>Icons made by </small><a href="https://www.flaticon.com/authors/darius-dan" title="Darius Dan" style="color: black"><small>Darius Dan</small></a>
+            <small> from </small><a href="https://www.flaticon.com/" title="Flaticon" style="color: black"><small>www.flaticon.com</small></a>
+            <small> is licensed by </small><a href="http://creativecommons.org/licenses/by/3.0/"  title="Creative Commons BY 3.0" style="color: black" target="_blank"><small>CC 3.0 BY</small></a>
+        </p>
+    </div>
     {% endif %}
 </footer>
