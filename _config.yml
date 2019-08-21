@@ -1,5 +1,5 @@
 title: "Felice Antonio Merra"
-url: "http://merrafelice.github.io"
+url: "https://merrafelice.github.io"
 baseurl: ""
 
 remote_theme: ankitsultana/researcher@gem
@@ -19,7 +19,7 @@ sass:
 
 nav:
  - name: "Home"
-   link: "http://merrafelice.github.io"
+   link: "https://merrafelice.github.io"
  - name: "Resume"
    link: "resume.pdf"
 
