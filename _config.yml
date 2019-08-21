@@ -1,4 +1,4 @@
-title: Felice Antonio Merra
+title: "Felice Antonio Merra"
 url: "http://merrafelice.github.io"
 baseurl: ""
 
@@ -26,7 +26,9 @@ nav:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
 # Tags
+
 description: "Felice Antonio Merra's Personal Blog. Follow my research activity! @merrafelice"
 author: "Felice Antonio Merra"
 
