@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Felice Antonio Merra
 ---
 
-## Felice Antonio Merra
+## About Me
 
 *Welcome!* I am Felice Antonio Merra a PhD Student working on Security and Adversarial Machine Learning on Recommender Systems. 
 
