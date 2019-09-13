@@ -18,6 +18,8 @@ I am earning my Ph.D. in Computer Science and Engineering at Department of Elect
 * Cross-Domain Social-aware Recommender Systems
 * Adversarial Machine Learning and Deep Learning in Information Retrieval and Recommender Systems
 
+For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
+
 ## Publications
 
 1. Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, [Assessing the Impact of a User-Item Collaborative Attack on Class of Users](https://arxiv.org/abs/1908.07968), The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019
