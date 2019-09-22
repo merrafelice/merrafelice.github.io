@@ -22,7 +22,7 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 
 ## Publications
 
-1. Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, [Assessing the Impact of a User-Item Collaborative Attack on Class of Users](https://arxiv.org/abs/1908.07968), The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019
+1. Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, [Assessing the Impact of a User-Item Collaborative Attack on Class of Users](https://arxiv.org/abs/1908.07968), [*Slide*](https://www.slideshare.net/FeliceAntonioMerra/assessing-the-impact-of-a-user-item-collaborative-attack-on-class-of-users) , The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019
 
 \* Corresponding Author
 
