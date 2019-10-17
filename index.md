@@ -21,11 +21,13 @@ I am earning my Ph.D. in Computer Science and Engineering at Department of Elect
 For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
 
 ## Publications
+Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, Adversarial Machine Learning in Recommender Systems, The 13th ACM International WSDM Conference, Texas, February 3-7, 2020.
 
-1. Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, [Assessing the Impact of a User-Item Collaborative Attack on Class of Users](https://arxiv.org/abs/1908.07968), [*Slide*](https://www.slideshare.net/FeliceAntonioMerra/assessing-the-impact-of-a-user-item-collaborative-attack-on-class-of-users) , The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019
+Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, [Assessing the Impact of a User-Item Collaborative Attack on Class of Users](https://arxiv.org/abs/1908.07968), [*Slide*](https://www.slideshare.net/FeliceAntonioMerra/assessing-the-impact-of-a-user-item-collaborative-attack-on-class-of-users) , The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019
 
 \* Corresponding Author
 
 ## News
-* I am attending the ACM Summer School on Recommender Systems, Gothenburg, Sweden. Sept. 9th - 13th, 2019. 
+* **[Highlight]** Tutorial on *Adversarial Machine Learning in Recommender Systems* has been accepted at WSDM2020.
+* Attended the ACM Summer School on Recommender Systems, Gothenburg, Sweden. Sept. 9th - 13th, 2019. 
 * If you are interested in my research interestes please send me an email directly.
