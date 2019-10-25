@@ -24,6 +24,7 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, Adversarial Machine Learning in Recommender Systems, The 13th ACM International WSDM Conference, Texas, February 3-7, 2020.
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, [Assessing the Impact of a User-Item Collaborative Attack on Class of Users](http://ceur-ws.org/Vol-2462/paper2.pdf), [*Slide*](https://www.slideshare.net/FeliceAntonioMerra/assessing-the-impact-of-a-user-item-collaborative-attack-on-class-of-users) , InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019), Copenhagen, Denmark,September 19, 2019.
+
 \* Corresponding Author
 , 2019.
 ## News
