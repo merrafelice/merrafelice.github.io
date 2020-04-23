@@ -11,6 +11,10 @@ I am earning my Ph.D. in Computer Science and Engineering at Department of Elect
 
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
+## Important News
+
+* **[Highlight]** Long paper accepted at SIGIR2020.
+* Stay tune for the arXiv version of the Survey on **Adversarial Learning in Recommender Systems** 
 
 ## Research Interest
 
@@ -20,6 +24,11 @@ I am earning my Ph.D. in Computer Science and Engineering at Department of Elect
 For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
 
 ## Publications
+Authors are order in alphabetical order.
+
+Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**\*, How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models, SIGIR 2020. X'ian, China, July, 2020.
+
+Tommaso Di Noia, Danile Malitesta, **Felice Antonio Merra**\*, TAaMR Targeted Adversarial Attack against Multimedia Recommender Systems, DSML 2020. Valencia, Spain, June, 2020.
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, Eugenio Di Sciascio, SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs, The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020.
 
@@ -30,7 +39,7 @@ Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, [Assessing the Impa
 \* Corresponding Author
 
 ## News
-* **[Highlight]** A novel attack model has been published at ESWC2020: SAShA
+* A novel attack model has been published at ESWC2020: SAShA
 * Tutorial on *Adversarial Machine Learning in Recommender Systems* has been accepted at WSDM2020.
 * Attended the ACM Summer School on Recommender Systems, Gothenburg, Sweden. Sept. 9th - 13th, 2019. 
 * If you are interested in my research interestes please send me an email directly.
