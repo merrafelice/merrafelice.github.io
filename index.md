@@ -24,7 +24,7 @@ I am earning my Ph.D. in Computer Science and Engineering at Department of Elect
 For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
 
 ## Publications
-Authors are order in alphabetical order.
+Authors in alphabetical order.
 
 Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**\*, How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models, SIGIR 2020. X'ian, China, July, 2020.
 
