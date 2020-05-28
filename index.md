@@ -26,7 +26,7 @@ I will join Amazon.com for a Summer Internship as Machine Learning Research Scie
 For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
 
 ## Publications
-Authors in alphabetical order. Bold style means ***main author***.
+Authors in alphabetical order. Bold style means ***corresponding author***.
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems: State-of-the-art and Challanges](https://arxiv.org/abs/2005.10322). arXiv preprint.
 
