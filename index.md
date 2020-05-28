@@ -9,12 +9,14 @@ title: Felice Antonio Merra
 
 I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
 
+I will join Amazon.com for a Summer Internship as Machine Learning Research Scientist (July->September 2020).
+
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
 
-* **[Highlight]** Long paper accepted at SIGIR2020.
-* Stay tune for the arXiv version of the Survey on **Adversarial Learning in Recommender Systems** 
+* **[Highlight]** We have released our survey on Adversarial Machine Learning in Recommender Systems! [Click here](https://arxiv.org/abs/2005.10322).
+* **[Highlight]** Long paper accepted at SIGIR2020. Pre-print in few days.
 
 ## Research Interest
 
@@ -24,13 +26,16 @@ I am earning my Ph.D. in Computer Science and Engineering at Department of Elect
 For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
 
 ## Publications
-Authors in alphabetical order.
+Authors in alphabetical order. **Felice Antonio Merra** character style mains ***main author***.
+
+Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, [Adversarial Machine Learning in Recommender Systems: State-of-the-art and Challanges](https://arxiv.org/abs/2005.10322). arXiv preprint.
 
 Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**\*, How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models, SIGIR 2020. X'ian, China, July, 2020.
 
-Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, Eugenio Di Sciascio, Knowledge-enhanced Shilling Attacks for recommendation, To appear in Proceedings of the 28th Italian Symposium on Advanced Database Systems, June 21-24, 2020 - Villasimius, Sardinia, Italy
+Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**\*, [TAaMR: Targeted Adversarial Attack against
+Multimedia Recommender Systems](http://sisinflab.poliba.it/publications/2020/DMM20/PID6442119.pdf), The 3rd International Workshop on Dependable and Secure Machine Learning – DSML 2020 Co-located with the 50th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2020). [Code](https://github.com/sisinflab/TAaMR)
 
-Tommaso Di Noia, Danile Malitesta, **Felice Antonio Merra**\*, TAaMR Targeted Adversarial Attack against Multimedia Recommender Systems, DSML 2020. Valencia, Spain, June, 2020. [Code](https://github.com/sisinflab/TAaMR)
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, Eugenio Di Sciascio, Knowledge-enhanced Shilling Attacks for recommendation, To appear in Proceedings of the 28th Italian Symposium on Advanced Database Systems, June 21-24, 2020 - Villasimius, Sardinia, Italy
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, Eugenio Di Sciascio, SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs, The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020.
 
