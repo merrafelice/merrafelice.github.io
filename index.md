@@ -26,7 +26,7 @@ I will join Amazon.com for a Summer Internship as Machine Learning Research Scie
 For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
 
 ## Publications
-Authors in alphabetical order. **Felice Antonio Merra** character style mains ***main author***.
+Authors in alphabetical order. Bold style means ***main author***.
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems: State-of-the-art and Challanges](https://arxiv.org/abs/2005.10322). arXiv preprint.
 
@@ -37,7 +37,7 @@ Multimedia Recommender Systems](http://sisinflab.poliba.it/publications/2020/DMM
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, Knowledge-enhanced Shilling Attacks for recommendation, To appear in Proceedings of the 28th Italian Symposium on Advanced Database Systems, June 21-24, 2020 - Villasimius, Sardinia, Italy
 
-Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs, The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020.
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, [SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs](http://sisinflab.poliba.it/publications/2020/ADDDM20/2020_Anelli_ESWC2020.pdf), The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020.
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3336191.3371877), [*Slide*](https://github.com/sisinflab/amlrecsys-tutorial), The 13th ACM International WSDM Conference, Texas, February 3-7, 2020.
 
