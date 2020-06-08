@@ -16,7 +16,7 @@ I will join Amazon.com for a Summer Internship as Machine Learning Research Scie
 ## Important News
 
 * **[Highlight]** We have released our survey on Adversarial Machine Learning in Recommender Systems! [Click here](https://arxiv.org/abs/2005.10322).
-* **[Highlight]** Long paper accepted at SIGIR2020. Pre-print in few days.
+* **[Highlight]** Long paper accepted at SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf).
 
 ## Research Interest
 
