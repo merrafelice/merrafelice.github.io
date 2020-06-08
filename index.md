@@ -30,12 +30,12 @@ Authors in alphabetical order. Bold style means ***corresponding author***.
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems: State-of-the-art and Challanges](https://arxiv.org/abs/2005.10322). arXiv preprint.
 
-Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**, How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models, SIGIR 2020. X'ian, China, July, 2020.
+Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**, [How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf), SIGIR 2020. X'ian, China, July, 2020.
 
 Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [TAaMR: Targeted Adversarial Attack against
 Multimedia Recommender Systems](http://sisinflab.poliba.it/publications/2020/DMM20/PID6442119.pdf), The 3rd International Workshop on Dependable and Secure Machine Learning – DSML 2020 Co-located with the 50th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2020). [Code](https://github.com/sisinflab/TAaMR)
 
-Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, Knowledge-enhanced Shilling Attacks for recommendation, To appear in Proceedings of the 28th Italian Symposium on Advanced Database Systems, June 21-24, 2020 - Villasimius, Sardinia, Italy
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, Giuseppe Acciani, [Knowledge-enhanced Shilling Attacks for recommendation](http://sisinflab.poliba.it/publications/2020/ADDMAD20/SEBD2020___Knowledge_enhanced_Shilling_Attacks_for_recommendation.pdf), To appear in Proceedings of the 28th Italian Symposium on Advanced Database Systems, June 21-24, 2020 - Villasimius, Sardinia, Italy
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, [SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs](http://sisinflab.poliba.it/publications/2020/ADDDM20/2020_Anelli_ESWC2020.pdf), The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020.
 
