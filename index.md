@@ -9,12 +9,14 @@ title: Felice Antonio Merra
 
 I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
 
-I will join Amazon.com for a Summer Internship as Machine Learning Research Scientist (July->September 2020).
+I am enrolled in an Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalizetion Science Team.
 
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
 
+* **[Highlight]** A Full-Day version of our Tutorial "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code
+" has been accepted at RecSys2020 (Virtual COnference, Brazil).
 * **[Highlight]** We have released our survey on Adversarial Machine Learning in Recommender Systems! [Click here](https://arxiv.org/abs/2005.10322).
 * **[Highlight]** Long paper accepted at SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf).
 
@@ -27,6 +29,8 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 
 ## Publications
 Authors in alphabetical order. Bold style means ***corresponding author***.
+
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code](https://github.com/sisinflab/amlrecsys-tutorial), To appear in Proceedings of the 14th ACM Conference on Recommender Systems, RecSys 2020, Virtual Conference (Brazil).
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems: State-of-the-art and Challanges](https://arxiv.org/abs/2005.10322). arXiv preprint.
 
