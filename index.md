@@ -41,7 +41,7 @@ Multimedia Recommender Systems](http://sisinflab.poliba.it/publications/2020/DMM
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, Giuseppe Acciani, [Knowledge-enhanced Shilling Attacks for recommendation](http://sisinflab.poliba.it/publications/2020/ADDMAD20/SEBD2020___Knowledge_enhanced_Shilling_Attacks_for_recommendation.pdf), To appear in Proceedings of the 28th Italian Symposium on Advanced Database Systems, June 21-24, 2020 - Villasimius, Sardinia, Italy
 
-Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, [SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs](http://sisinflab.poliba.it/publications/2020/ADDDM20/2020_Anelli_ESWC2020.pdf), The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020.
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, [SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs](http://sisinflab.poliba.it/publications/2020/ADDDM20/2020_Anelli_ESWC2020.pdf), The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020. [Video](http://videolectures.net/eswc2020_anelli_paper_251/)
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3336191.3371877), [*Slide*](https://github.com/sisinflab/amlrecsys-tutorial), The 13th ACM International WSDM Conference, Texas, February 3-7, 2020.
 
