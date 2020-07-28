@@ -49,7 +49,7 @@ Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Assessing Knowledge-
 
 
 ## News
-* A novel adversarial attack framework hass been accepted by DSN-DSML 2020: TAaMR
+* A novel adversarial attack framework has been published at DSN-DSML 2020: TAaMR
 * A novel attack model has been published at ESWC2020: SAShA
 * Tutorial on *Adversarial Machine Learning in Recommender Systems* has been accepted at WSDM2020.
 * Attended the ACM Summer School on Recommender Systems, Gothenburg, Sweden. Sept. 9th - 13th, 2019. 
