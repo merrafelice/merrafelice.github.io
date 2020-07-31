@@ -15,7 +15,7 @@ I am enrolled in an Internship as Applied Scientist at Amazon.com in the Amazon 
 
 ## Important News
 
-* **[Highlight]** Presentation of ***How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models*** @SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf) [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/Slides_SIGIR2020.pdf).
+* **[Highlight]** Presentation of ***How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models*** @SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf) [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/Slides_SIGIR2020.pdf) [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU).
 * **[Highlight]** A Full-Day version of our Tutorial "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code
 " has been accepted at RecSys2020 (Virtual COnference, Brazil).
 * **[Highlight]** We have released our survey on Adversarial Machine Learning in Recommender Systems! [Click here](https://arxiv.org/abs/2005.10322).
@@ -34,7 +34,7 @@ Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems: State-of-the-art and Challanges](https://arxiv.org/abs/2005.10322). arXiv preprint.
 
-Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**, [How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf), SIGIR 2020. X'ian, China, July, 2020.
+Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**, [How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf), SIGIR 2020. X'ian, China, July, 2020. [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU)
 
 Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [TAaMR: Targeted Adversarial Attack against
 Multimedia Recommender Systems](http://sisinflab.poliba.it/publications/2020/DMM20/PID6442119.pdf), The 3rd International Workshop on Dependable and Secure Machine Learning – DSML 2020 Co-located with the 50th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2020). [Code](https://github.com/sisinflab/TAaMR) [Video](https://youtu.be/Ov95qEbyKL0)
