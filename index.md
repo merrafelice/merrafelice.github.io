@@ -9,26 +9,31 @@ title: Felice Antonio Merra
 
 I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
 
-I am enrolled in an Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalizetion Science Team.
+I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalizetion Team.
 
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
-
+* **[Highlight]** We are writing a book chapter titled ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** for the 3rd edition of ***Recommender System Handbook***.
 * **[Highlight]** Presentation of ***How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models*** @SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf) [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/Slides_SIGIR2020.pdf) [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU).
 * **[Highlight]** A Full-Day version of our Tutorial "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code
-" has been accepted at RecSys2020 (Virtual COnference, Brazil).
-* **[Highlight]** We have released our survey on Adversarial Machine Learning in Recommender Systems! [Click here](https://arxiv.org/abs/2005.10322).
+" has been accepted at RecSys2020 [Hands-On](https://github.com/sisinflab/HandsOn-RecSys2020).
 
 ## Research Interest
 
-* Security and Robustness of Recommender Systems (shilling and adversarial learning attacks)
 * Adversarial Machine Learning and Deep Learning in Information Retrieval and Recommender Systems
+* Security and Robustness of Recommender Systems (shilling and adversarial learning attacks)
+* Trustworthy ML for RecSys (security, privacy, fairness, bias)
 
 For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
 
 ## Publications
 Authors in alphabetical order. Bold style means ***corresponding author***.
+
+Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [An Empirical Study of DNNs Robustification Inefficacy in Protecting Visual Recommenders](https://arxiv.org/abs/2010.00984), arXiv.
+
+Vito Walter Anelli, Alejandro Bellogín, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Multi-Step Adversarial Perturbations on Recommender Systems Embeddings
+](https://arxiv.org/abs/2010.01329), arXiv.
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code](https://github.com/sisinflab/amlrecsys-tutorial), To appear in Proceedings of the 14th ACM Conference on Recommender Systems, RecSys 2020, Virtual Conference (Brazil).
 
