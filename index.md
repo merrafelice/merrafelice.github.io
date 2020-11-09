@@ -9,20 +9,53 @@ title: Felice Antonio Merra
 
 I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
 
+I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalizetion Team.
+
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
+## Important News
+* **[Highlight]** We are writing a book chapter titled ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** for the 3rd edition of ***Recommender System Handbook***.
+* **[Highlight]** Presentation of ***How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models*** @SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf) [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/Slides_SIGIR2020.pdf) [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU).
+* **[Highlight]** A Full-Day version of our Tutorial "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code
+" has been accepted at RecSys2020 [Hands-On](https://github.com/sisinflab/HandsOn-RecSys2020).
 
 ## Research Interest
 
-* Security and Robustness of Recommender Systems (shilling and adversarial learning attacks)
-* Cross-Domain Social-aware Recommender Systems
 * Adversarial Machine Learning and Deep Learning in Information Retrieval and Recommender Systems
+* Security and Robustness of Recommender Systems (shilling and adversarial learning attacks)
+* Trustworthy ML for RecSys (security, privacy, fairness, bias)
+
+For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
 
 ## Publications
+Authors in alphabetical order. Bold style means ***corresponding author***.
 
-1. Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**\*, Assessing the Impact of a User-Item Collaborative Attack on Class of Users, The 1st Workshop on the Impact of Recommender Systems with ACM RecSys 2019
+Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [An Empirical Study of DNNs Robustification Inefficacy in Protecting Visual Recommenders](https://arxiv.org/abs/2010.00984), arXiv.
 
-\* Corresponding Author
+Vito Walter Anelli, Alejandro Bellogín, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Multi-Step Adversarial Perturbations on Recommender Systems Embeddings
+](https://arxiv.org/abs/2010.01329), arXiv.
+
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code](https://github.com/sisinflab/amlrecsys-tutorial), To appear in Proceedings of the 14th ACM Conference on Recommender Systems, RecSys 2020, Virtual Conference (Brazil).
+
+Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems: State-of-the-art and Challanges](https://arxiv.org/abs/2005.10322). arXiv preprint.
+
+Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**, [How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf), SIGIR 2020. X'ian, China, July, 2020. [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU)
+
+Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [TAaMR: Targeted Adversarial Attack against
+Multimedia Recommender Systems](http://sisinflab.poliba.it/publications/2020/DMM20/PID6442119.pdf), The 3rd International Workshop on Dependable and Secure Machine Learning – DSML 2020 Co-located with the 50th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2020). [Code](https://github.com/sisinflab/TAaMR) [Video](https://youtu.be/Ov95qEbyKL0)
+
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, Giuseppe Acciani, [Knowledge-enhanced Shilling Attacks for recommendation](http://sisinflab.poliba.it/publications/2020/ADDMAD20/SEBD2020___Knowledge_enhanced_Shilling_Attacks_for_recommendation.pdf), To appear in Proceedings of the 28th Italian Symposium on Advanced Database Systems, June 21-24, 2020 - Villasimius, Sardinia, Italy
+
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, [SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs](http://sisinflab.poliba.it/publications/2020/ADDDM20/2020_Anelli_ESWC2020.pdf), The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020. [Video](http://videolectures.net/eswc2020_anelli_paper_251/)
+
+Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3336191.3371877), [*Slide*](https://github.com/sisinflab/amlrecsys-tutorial), The 13th ACM International WSDM Conference, Texas, February 3-7, 2020.
+
+Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Assessing Knowledge-enhanced Shilling Attacks for recommendation the Impact of a User-Item Collaborative Attack on Class of Users](http://ceur-ws.org/Vol-2462/paper2.pdf), [*Slide*](https://www.slideshare.net/FeliceAntonioMerra/assessing-the-impact-of-a-user-item-collaborative-attack-on-class-of-users) , InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019, Copenhag InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019, Copenhagen, Denmark, September 19, 2019.
+
 
 ## News
-If you are interested in my research interestes please send me an email directly.
+* A novel adversarial attack framework has been published at DSN-DSML 2020: TAaMR
+* A novel attack model has been published at ESWC2020: SAShA
+* Tutorial on *Adversarial Machine Learning in Recommender Systems* has been accepted at WSDM2020.
+* Attended the ACM Summer School on Recommender Systems, Gothenburg, Sweden. Sept. 9th - 13th, 2019. 
+* If you are interested in my research interestes please send me an email directly.
