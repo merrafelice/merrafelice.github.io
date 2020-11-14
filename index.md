@@ -30,6 +30,10 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 ## Publications
 Authors in alphabetical order. Bold style means ***corresponding author***.
 
+### 2021
+
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Recommender Systems: Attack, Defense, and Advances](https://www.researchgate.net/publication/344607174_Adversarial_Recommender_Systems_Attack_Defense_and_Advances?_sg=iYjaJSPuy03RjsAc6pkdfK45Ohsq8MqyVoMFfPBflh_YwMcl5orDh0hM1yesHL1YeQFwcKl4eDR5xEmS_IHfDcGPFLJzZmoUr7LxERoU.1rx1txZDLG0dBAR-ihVtQGB9F4moO3W5xK9iciWJcowjnKOVW5GE8S-V3hV85pdcp_0u1486P6_nTPTMhPBEUA), The 3rd Edition of the **Recommender Systems Handbook**.
+
 ### 2020
 
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders](http://sisinflab.poliba.it/publications/2020/ADMM20/), WSCD@NeurIPS2020, The 1st Workshop on Dataset Curation and Security co-located with the 34th Conference on Neural Information Processing Systems (NeurIPS 2020), Vancouver, Canada (Virtual Event) [Code](https://github.com/sisinflab/Perceptual-Rec-Mutation-of-Adv-VRs).
@@ -60,8 +64,9 @@ Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Assessing Knowledge-
 
 
 ## News
+* A novel defense framework has been accepted at WDCS@NeurIPS2020: VAR
 * A novel adversarial attack framework has been published at DSN-DSML 2020: TAaMR
-* A novel attack model has been published at ESWC2020: SAShA
-* Tutorial on *Adversarial Machine Learning in Recommender Systems* has been accepted at WSDM2020.
+* A novel shilling attack technique has been published at ESWC2020: SAShA
+* Tutorial on *Adversarial Machine Learning in Recommender Systems* has been presented at WSDM2020 and RecSys2020.
 * Attended the ACM Summer School on Recommender Systems, Gothenburg, Sweden. Sept. 9th - 13th, 2019. 
 * If you are interested in my research interestes please send me an email directly.
