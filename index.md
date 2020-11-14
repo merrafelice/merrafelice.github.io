@@ -14,7 +14,7 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
-* **[Highlight]** We are writing a book chapter titled ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** for the 3rd edition of ***Recommender System Handbook***.
+* **[Highlight]** Our chapter titled ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** has been **ACCEPTED** for publishing at the ***3rd edition of Recommender System Handbook***.
 * **[Highlight]** Presentation of ***How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models*** @SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf) [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/Slides_SIGIR2020.pdf) [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU).
 * **[Highlight]** A Full-Day version of our Tutorial "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code
 " has been accepted at RecSys2020 [Hands-On](https://github.com/sisinflab/HandsOn-RecSys2020).
@@ -30,6 +30,8 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 ## Publications
 Authors in alphabetical order. Bold style means ***corresponding author***.
 
+Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders](http://sisinflab.poliba.it/publications/2020/ADMM20/), WSCD@NeurIPS2020, The 1st Workshop on Dataset Curation and Security co-located with the 34th Conference on Neural Information Processing Systems (NeurIPS 2020), Vancouver, Canada (Virtual Event) [Code](https://github.com/sisinflab/Perceptual-Rec-Mutation-of-Adv-VRs).
+
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [An Empirical Study of DNNs Robustification Inefficacy in Protecting Visual Recommenders](https://arxiv.org/abs/2010.00984), arXiv.
 
 Vito Walter Anelli, Alejandro Bellogín, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Multi-Step Adversarial Perturbations on Recommender Systems Embeddings
@@ -37,7 +39,7 @@ Vito Walter Anelli, Alejandro Bellogín, Yashar Deldjoo, Tommaso Di Noia, **Feli
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code](https://github.com/sisinflab/amlrecsys-tutorial), To appear in Proceedings of the 14th ACM Conference on Recommender Systems, RecSys 2020, Virtual Conference (Brazil).
 
-Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems: State-of-the-art and Challanges](https://arxiv.org/abs/2005.10322). arXiv preprint.
+Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [A Survey on Adversarial Recommender Systems: from Attack/Defense Strategies to Generative Adversarial Networks](https://arxiv.org/abs/2005.10322). arXiv preprint. Submitted to ACM COmputing Survey.
 
 Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, **Felice Antonio Merra**, [How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf), SIGIR 2020. X'ian, China, July, 2020. [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU)
 
