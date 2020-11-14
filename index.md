@@ -30,6 +30,8 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 ## Publications
 Authors in alphabetical order. Bold style means ***corresponding author***.
 
+### 2020
+
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders](http://sisinflab.poliba.it/publications/2020/ADMM20/), WSCD@NeurIPS2020, The 1st Workshop on Dataset Curation and Security co-located with the 34th Conference on Neural Information Processing Systems (NeurIPS 2020), Vancouver, Canada (Virtual Event) [Code](https://github.com/sisinflab/Perceptual-Rec-Mutation-of-Adv-VRs).
 
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [An Empirical Study of DNNs Robustification Inefficacy in Protecting Visual Recommenders](https://arxiv.org/abs/2010.00984), arXiv.
@@ -51,6 +53,8 @@ Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, E
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, Eugenio Di Sciascio, [SAShA: Semantic-Aware Shilling Attacks on Recommender Systems exploiting Knowledge Graphs](http://sisinflab.poliba.it/publications/2020/ADDDM20/2020_Anelli_ESWC2020.pdf), The 17th Extended Semantic Web Conference. Springer, Cham., Heraklion, Greece, May 31- June 4, 2020. [Video](http://videolectures.net/eswc2020_anelli_paper_251/)
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3336191.3371877), [*Slide*](https://github.com/sisinflab/amlrecsys-tutorial), The 13th ACM International WSDM Conference, Texas, February 3-7, 2020.
+
+### 2019
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Assessing Knowledge-enhanced Shilling Attacks for recommendation the Impact of a User-Item Collaborative Attack on Class of Users](http://ceur-ws.org/Vol-2462/paper2.pdf), [*Slide*](https://www.slideshare.net/FeliceAntonioMerra/assessing-the-impact-of-a-user-item-collaborative-attack-on-class-of-users) , InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019, Copenhag InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019, Copenhagen, Denmark, September 19, 2019.
 
