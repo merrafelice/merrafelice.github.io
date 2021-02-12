@@ -19,17 +19,24 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 * **[Highlight]** A Full-Day version of our Tutorial "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code
 " has been accepted at RecSys2020 [Hands-On](https://github.com/sisinflab/HandsOn-RecSys2020).
 
+----------------------------------------------------------------------------------
+
 ## Research Interest
 
-My research activities mainly focus on artificial intelligence (AI). My investigation is devoted to novel approaches and applying machine learning (ML) algorithms, particularly to Trustworthy AI.
-In particular, I devote my attention to recommender system (RS) applications to study the robustness of modern ML recommender models affected by adversarial threats. 
-After having assessed the state-of-the-art of AML techniques in RS, I have investigated three main areas of study: (i) the robustness of recommender models when affected by hand-engineered shilling attacks, (ii) the formal study of the effects of AML training strategies on the beyond-accuracy effects of recommenders, i.e., bias disparity, fairness, novelty, and (iii) the proposal of adversarial attacks against multimedia retrieval models. In the future, I plan to extend the previous line of study and continue to investigate AML approaches on other ML tasks, e.g., computer vision and reinforcement learning, with the aim to bridge the final users' at the core of my research to verify how much they can Trust an ML system.
+My research activities mainly focus on artificial intelligence (AI). My investigation is devoted to novel approaches and applying machine learning (ML) algorithms, particularly to Trustworthy AI. In particular, I devote my attention to recommender system (RS) applications to study the robustness of modern ML recommender models affected by adversarial threats. 
 
-* Adversarial Machine Learning and Deep Learning in Information Retrieval and Recommender Systems
-* Security and Robustness of Recommender Systems (shilling and adversarial learning attacks)
-* Trustworthy ML for RecSys (security, privacy, fairness, bias)
+After having assessed the state-of-the-art of AML techniques in RS, I am invetsigating three main areas of study:
 
-For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf).
+* the robustness of recommender models when affected by hand-engineered shilling attacks,
+* the formal study of the effects of AML training strategies on the beyond-accuracy effects of recommenders, i.e., bias disparity, fairness, novelty
+* the proposal of adversarial attacks against multimedia retrieval models. 
+* the Trustworthiness of ML (security, privacy, fairness, bias)
+
+In the future, I plan to extend the previous line of study and continue to investigate AML approaches on other ML tasks, e.g., computer vision and reinforcement learning, with the aim to bridge the final users' at the core of my research to verify how much they can Trust an ML system.
+
+For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf). 
+
+----------------------------------------------------------------------------------
 
 ## Publications
 Authors in alphabetical order. Bold style means ***corresponding author***.
@@ -66,6 +73,7 @@ Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine 
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Assessing Knowledge-enhanced Shilling Attacks for recommendation the Impact of a User-Item Collaborative Attack on Class of Users](http://ceur-ws.org/Vol-2462/paper2.pdf), [*Slide*](https://www.slideshare.net/FeliceAntonioMerra/assessing-the-impact-of-a-user-item-collaborative-attack-on-class-of-users) , InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019, Copenhag InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019, Copenhagen, Denmark, September 19, 2019.
 
+----------------------------------------------------------------------------------
 
 ## News
 * A novel defense framework has been accepted at WDCS@NeurIPS2020: VAR
