@@ -21,6 +21,10 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 
 ## Research Interest
 
+My research activities mainly focus on artificial intelligence (AI). My investigation is devoted to novel approaches and applying machine learning (ML) algorithms, particularly to Trustworthy AI.
+In particular, I devote my attention to recommender system (RS) applications to study the robustness of modern ML recommender models affected by adversarial threats. 
+After having assessed the state-of-the-art of AML techniques in RS, I have investigated three main areas of study: (i) the robustness of recommender models when affected by hand-engineered shilling attacks, (ii) the formal study of the effects of AML training strategies on the beyond-accuracy effects of recommenders, i.e., bias disparity, fairness, novelty, and (iii) the proposal of adversarial attacks against multimedia retrieval models. In the future, I plan to extend the previous line of study and continue to investigate AML approaches on other ML tasks, e.g., computer vision and reinforcement learning, with the aim to bridge the final users' at the core of my research to verify how much they can Trust an ML system.
+
 * Adversarial Machine Learning and Deep Learning in Information Retrieval and Recommender Systems
 * Security and Robustness of Recommender Systems (shilling and adversarial learning attacks)
 * Trustworthy ML for RecSys (security, privacy, fairness, bias)
