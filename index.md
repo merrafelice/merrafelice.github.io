@@ -14,7 +14,7 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
-* **[Highlight]** An Open-source Library for Recommendation System Experiments will be available very soon!
+* **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments is available. [Paper](https://arxiv.org/abs/2103.02590)!
 * **[Highlight]** Our chapter titled ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** has been **ACCEPTED** for publishing at the ***3rd edition of Recommender System Handbook***.
 * **[Highlight]** Presentation of ***How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models*** @SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf) [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/Slides_SIGIR2020.pdf) [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU).
 * **[Highlight]** A Full-Day version of our Tutorial "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code
@@ -43,6 +43,8 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 Authors in alphabetical order. Bold style means ***corresponding author***.
 
 ### 2021
+
+Vito  Walter  Anelli,  Alejandro  Bellog ́ın,  Antonio  Ferrara,  Daniele  Malitesta,  Fe-lice Antonio Merra, Claudio Pomo, Francesco Maria Donini, and Tommaso Di Noia. [Elliot:  a comprehensive and rigorous framework for reproducible recommender sys-tems evaluation](https://arxiv.org/pdf/2103.02590.pdf), 2021
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks](http://sisinflab.poliba.it/publications/2021/DDM21/ACM_CSUR_Survey_AdL.pdf), ACM Computing Surveys, March 2021
 
