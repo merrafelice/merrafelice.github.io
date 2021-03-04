@@ -14,7 +14,7 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
-* **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments is available. [Paper](https://arxiv.org/abs/2103.02590)!
+* **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments is available. [Paper](https://arxiv.org/abs/2103.02590)
 * **[Highlight]** Our chapter titled ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** has been **ACCEPTED** for publishing at the ***3rd edition of Recommender System Handbook***.
 * **[Highlight]** Presentation of ***How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models*** @SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf) [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/Slides_SIGIR2020.pdf) [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU).
 * **[Highlight]** A Full-Day version of our Tutorial "Adversarial Learning for Recommendation: Applications for Security and Generative Tasks - Concept to Code
@@ -44,7 +44,7 @@ Authors in alphabetical order. Bold style means ***corresponding author***.
 
 ### 2021
 
-Vito  Walter  Anelli,  Alejandro  Bellog ́ın,  Antonio  Ferrara,  Daniele  Malitesta,  Fe-lice Antonio Merra, Claudio Pomo, Francesco Maria Donini, and Tommaso Di Noia. [Elliot:  a comprehensive and rigorous framework for reproducible recommender sys-tems evaluation](https://arxiv.org/pdf/2103.02590.pdf), 2021
+Vito  Walter  Anelli,  Alejandro  Bellogin,  Antonio  Ferrara,  Daniele  Malitesta,  Fe-lice Antonio Merra, Claudio Pomo, Francesco Maria Donini, and Tommaso Di Noia. [Elliot:  a comprehensive and rigorous framework for reproducible recommender sys-tems evaluation](https://arxiv.org/pdf/2103.02590.pdf), 2021
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks](http://sisinflab.poliba.it/publications/2021/DDM21/ACM_CSUR_Survey_AdL.pdf), ACM Computing Surveys, March 2021
 
@@ -77,11 +77,3 @@ Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Machine 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Assessing Knowledge-enhanced Shilling Attacks for recommendation the Impact of a User-Item Collaborative Attack on Class of Users](http://ceur-ws.org/Vol-2462/paper2.pdf), [*Slide*](https://www.slideshare.net/FeliceAntonioMerra/assessing-the-impact-of-a-user-item-collaborative-attack-on-class-of-users) , InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019, Copenhag InProceedings of the 1stWorkshop on the Impact of Recommender Systems co-located with 13th ACM Con-ference on Recommender Systems, ImpactRS@RecSys 2019, Copenhagen, Denmark, September 19, 2019.
 
 ----------------------------------------------------------------------------------
-
-## News
-* A novel defense framework has been accepted at WDCS@NeurIPS2020: VAR
-* A novel adversarial attack framework has been published at DSN-DSML 2020: TAaMR
-* A novel shilling attack technique has been published at ESWC2020: SAShA
-* Tutorial on *Adversarial Machine Learning in Recommender Systems* has been presented at WSDM2020 and RecSys2020.
-* Attended the ACM Summer School on Recommender Systems, Gothenburg, Sweden. Sept. 9th - 13th, 2019. 
-* If you are interested in my research interestes please send me an email directly.
