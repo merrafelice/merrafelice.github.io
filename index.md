@@ -45,9 +45,9 @@ Authors in alphabetical order. Bold style means ***corresponding author***.
 
 ### 2021
 
-Vito  Walter  Anelli,  Alejandro  Bellogin, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**. [MSAP: Multi-Step Adversarial Perturbations on Recommender Systems Embeddings](http://sisinflab.poliba.it/publications/2021/ABDDM21/FLAIRS2021__MSAP__Multi_Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings.pdf), 2021
+Vito  Walter  Anelli,  Alejandro  Bellogin, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**. [MSAP: Multi-Step Adversarial Perturbations on Recommender Systems Embeddings](http://sisinflab.poliba.it/publications/2021/ABDDM21/FLAIRS2021__MSAP__Multi_Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings.pdf), FLAIRS 2021
 
-Vito  Walter  Anelli,  Alejandro  Bellogin,  Antonio  Ferrara,  Daniele  Malitesta,  Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, and Tommaso Di Noia. [Elliot:  a comprehensive and rigorous framework for reproducible recommender sys-tems evaluation](https://arxiv.org/pdf/2103.02590.pdf), 2021
+Vito  Walter  Anelli,  Alejandro  Bellogin,  Antonio  Ferrara,  Daniele  Malitesta,  Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, and Tommaso Di Noia. [Elliot:  a comprehensive and rigorous framework for reproducible recommender sys-tems evaluation](https://arxiv.org/pdf/2103.02590.pdf), Under Review, 2021
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks](http://sisinflab.poliba.it/publications/2021/DDM21/ACM_CSUR_Survey_AdL.pdf), ACM Computing Surveys, March 2021
 
