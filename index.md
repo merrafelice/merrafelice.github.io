@@ -14,6 +14,7 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
+* **[Highlight]** ***Multi-Step Adversarial Perturbations on Recommender Systems Embeddings*** A novel adversarial attack method has be accepted in a long-paper at FLAIRS2021 [Paper](https://www.researchgate.net/publication/350112340_MSAP_Multi-Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings)
 * **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments is available. [Paper](https://arxiv.org/abs/2103.02590)
 * **[Highlight]** Our chapter titled ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** has been **ACCEPTED** for publishing at the ***3rd edition of Recommender System Handbook***.
 * **[Highlight]** Presentation of ***How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models*** @SIGIR2020. [Pre-print](http://sisinflab.poliba.it/publications/2020/DDMD20/SIGIR_2020___FULL___ATTACK_RecSys___CamreaReady.pdf) [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/Slides_SIGIR2020.pdf) [Video](https://www.youtube.com/watch?v=I3yxWRoyEFU).
@@ -44,7 +45,9 @@ Authors in alphabetical order. Bold style means ***corresponding author***.
 
 ### 2021
 
-Vito  Walter  Anelli,  Alejandro  Bellogin,  Antonio  Ferrara,  Daniele  Malitesta,  Fe-lice Antonio Merra, Claudio Pomo, Francesco Maria Donini, and Tommaso Di Noia. [Elliot:  a comprehensive and rigorous framework for reproducible recommender sys-tems evaluation](https://arxiv.org/pdf/2103.02590.pdf), 2021
+Vito  Walter  Anelli,  Alejandro  Bellogin, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**. [MSAP: Multi-Step Adversarial Perturbations on Recommender Systems Embeddings](http://sisinflab.poliba.it/publications/2021/ABDDM21/FLAIRS2021__MSAP__Multi_Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings.pdf), 2021
+
+Vito  Walter  Anelli,  Alejandro  Bellogin,  Antonio  Ferrara,  Daniele  Malitesta,  Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, and Tommaso Di Noia. [Elliot:  a comprehensive and rigorous framework for reproducible recommender sys-tems evaluation](https://arxiv.org/pdf/2103.02590.pdf), 2021
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks](http://sisinflab.poliba.it/publications/2021/DDM21/ACM_CSUR_Survey_AdL.pdf), ACM Computing Surveys, March 2021
 
