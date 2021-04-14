@@ -54,8 +54,6 @@ Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra, [A Stu
 
 Vito  Walter  Anelli,  Alejandro  Bellogin, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**. [MSAP: Multi-Step Adversarial Perturbations on Recommender Systems Embeddings](http://sisinflab.poliba.it/publications/2021/ABDDM21/FLAIRS2021__MSAP__Multi_Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings.pdf), FLAIRS 2021
 
-Vito  Walter  Anelli,  Alejandro  Bellogin,  Antonio  Ferrara,  Daniele  Malitesta,  Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, and Tommaso Di Noia. [Elliot:  a comprehensive and rigorous framework for reproducible recommender sys-tems evaluation](https://arxiv.org/pdf/2103.02590.pdf), Under Review, 2021
-
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks](http://sisinflab.poliba.it/publications/2021/DDM21/ACM_CSUR_Survey_AdL.pdf), ACM Computing Surveys, March 2021
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Recommender Systems: Attack, Defense, and Advances](https://www.researchgate.net/publication/344607174_Adversarial_Recommender_Systems_Attack_Defense_and_Advances?_sg=iYjaJSPuy03RjsAc6pkdfK45Ohsq8MqyVoMFfPBflh_YwMcl5orDh0hM1yesHL1YeQFwcKl4eDR5xEmS_IHfDcGPFLJzZmoUr7LxERoU.1rx1txZDLG0dBAR-ihVtQGB9F4moO3W5xK9iciWJcowjnKOVW5GE8S-V3hV85pdcp_0u1486P6_nTPTMhPBEUA), The 3rd Edition of the **Recommender Systems Handbook**.
