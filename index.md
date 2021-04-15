@@ -17,8 +17,8 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 * **[Highlight]** ***A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images*** A novel adversarial defense method has been accepted as long-paper at SIGIR2021 [Paper](https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images)
 * **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments has been accepted as Respurce Paper at SIGIR2021. [Paper](https://arxiv.org/abs/2103.02590)
 * **[Highlight]** ***A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems*** A study to verify the efficiency of changing CNNs in VRSs has been accepted as short-paper at the CVPR2021 Fashion Workshop [Paper](http://sisinflab.poliba.it/publications/2021/DDMM21/CVPRW-CVFAD-2021_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually_Aware_Recommender_Systems.pdf)
-* **[Highlight]** ***Multi-Step Adversarial Perturbations on Recommender Systems Embeddings*** A novel adversarial attack method has been accepted in a long-paper at FLAIRS2021 [Paper](https://www.researchgate.net/publication/350112340_MSAP_Multi-Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings)
-* **[Highlight]** Our chapter titled ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** has been **ACCEPTED** for publishing at the ***3rd edition of Recommender System Handbook***.
+* **[Highlight]** ***Multi-Step Adversarial Perturbations on Recommender Systems Embeddings*** A novel adversarial attack method has been accepted as a long-paper at FLAIRS2021 [Paper](https://www.researchgate.net/publication/350112340_MSAP_Multi-Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings)
+* **[Highlight]** ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** has been accepted as Book Chapter at the ***3rd edition of Recommender System Handbook***.
 
 ----------------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ After having assessed the state-of-the-art of AML techniques in RS, I am invetsi
 * the robustness of recommender models when affected by hand-engineered shilling attacks,
 * the formal study of the effects of AML training strategies on the beyond-accuracy effects of recommenders, i.e., bias disparity, fairness, novelty
 * the proposal of adversarial attacks against multimedia retrieval models. 
-* the Trustworthiness of ML (security, privacy, fairness, bias)
+* the Trustworthiness of ML (security, explainability, privacy, fairness, bias)
 
 In the future, I plan to extend the previous line of study and continue to investigate AML approaches on other ML tasks, e.g., computer vision and reinforcement learning, with the aim to bridge the final users' at the core of my research to verify how much they can Trust an ML system.
 
@@ -43,7 +43,6 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 Authors in alphabetical order. Bold style means ***corresponding author***.
 
 ### 2021
-
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images](https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images),The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
