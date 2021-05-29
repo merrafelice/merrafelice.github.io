@@ -14,11 +14,9 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
+* **[Highlight]** I am co-organizer of the 1st International Workshop on Adversarial Machine Learning in Recommendation and Search (AdveRSe) 2021 held **online** in conjunction with CIKM 2021. The CFP is open and it is available at the [Web Site](https://sisinflab.github.io/adverse2021/cfp/).
 * **[Highlight]** ***A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images*** A novel adversarial defense method has been accepted as long-paper at SIGIR2021 [Paper](https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images)
 * **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments has been accepted as Respurce Paper at SIGIR2021. [Paper](https://arxiv.org/abs/2103.02590)
-* **[Highlight]** ***A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems*** A study to verify the efficiency of changing CNNs in VRSs has been accepted as short-paper at the CVPR2021 Fashion Workshop [Paper](http://sisinflab.poliba.it/publications/2021/DDMM21/CVPRW-CVFAD-2021_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually_Aware_Recommender_Systems.pdf)
-* **[Highlight]** ***Multi-Step Adversarial Perturbations on Recommender Systems Embeddings*** A novel adversarial attack method has been accepted as a long-paper at FLAIRS2021 [Paper](https://www.researchgate.net/publication/350112340_MSAP_Multi-Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings)
-* **[Highlight]** ***Adversarial Recommender Systems: Attack,Defense, and Advances.*** has been accepted as Book Chapter at the ***3rd edition of Recommender System Handbook***.
 
 ----------------------------------------------------------------------------------
 
@@ -43,6 +41,8 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 Authors in alphabetical order. Bold style means ***corresponding author***.
 
 ### 2021
+
+Giuseppe De Candia, Tommaso Di Noia, Eugenio Di Sciascio, Felice Antonio Merra, [AMFLP: Adversarial Matrix Factorization-based Link Predictor in Social Graphs](http://sisinflab.poliba.it/publications/2021/DDDM21/AMFLP-SEBD2021.pdf), SEBD 2021. 
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**, [A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images](https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images),The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
