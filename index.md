@@ -14,6 +14,7 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
+* **[Highlight]** New paper on adversarial training accepted at AdvMl@KDD2021.
 * **[Highlight]** I am co-organizer of the 1st International Workshop on Adversarial Machine Learning in Recommendation and Search (AdveRSe) 2021 held **online** in conjunction with CIKM 2021. The CFP is open and it is available at the [Web Site](https://sisinflab.github.io/adverse2021/cfp/).
 * **[Highlight]** ***A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images*** A novel adversarial defense method has been accepted as long-paper at SIGIR2021 [Paper](https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images)
 * **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments has been accepted as Respurce Paper at SIGIR2021. [Paper](https://arxiv.org/abs/2103.02590)
@@ -41,6 +42,8 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 Authors in alphabetical order. Bold style means ***corresponding author***.
 
 ### 2021
+
+Vito Walter Anelli; Yashar Deldjoo; Tommaso Di Noia; **Felice Antonio Merra**, Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality, 3rd Workshop on Adversarial Learning Methods for Machine Learning and Data Mining @ KDD 2021 (virtual workshop)
 
 Giuseppe De Candia, Tommaso Di Noia, Eugenio Di Sciascio, Felice Antonio Merra, [AMFLP: Adversarial Matrix Factorization-based Link Predictor in Social Graphs](http://sisinflab.poliba.it/publications/2021/DDDM21/AMFLP-SEBD2021.pdf), SEBD 2021. 
 
