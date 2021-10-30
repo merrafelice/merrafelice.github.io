@@ -5,18 +5,16 @@ title: Felice Antonio Merra
 
 ## About Me
 
-*Welcome!* I am Felice Antonio Merra a PhD Student working on Security and Adversarial Machine Learning on Recommender Systems. 
+*Welcome!* I am Felice Antonio Merra a Ph.D. Candidate working on Security and Adversarial Machine Learning on Recommender Systems. I am joining Amazon Science as an Applied Scientist starting from 15th November 2021 in the Search Team.
 
-I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
+I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalization Team.
 
-I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalizetion Team.
 
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
+* **[Highlight]** [Best Short Paper Nominations](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
 * **[Highlight]** [MIT-IBM Watson AI Lab best paper award](https://sites.google.com/view/advml/Home?authuser=0): Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality at  AdvML@KDD 2021
-* **[Highlight]** New paper on adversarial training accepted at RecSys2021 and AdvML@KDD2021.
-* **[Highlight]** ***A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images*** A novel adversarial defense method has been accepted as long-paper at SIGIR2021 [Paper](https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images)
 * **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments has been accepted as Respurce Paper at SIGIR2021. [Paper](https://arxiv.org/abs/2103.02590). Novel visual and adversarial features available in the novel release (v0.3+)
 
 ----------------------------------------------------------------------------------
@@ -39,13 +37,17 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 ----------------------------------------------------------------------------------
 
 ## Publications
-Authors in alphabetical order. Bold style means ***corresponding author***.
+Authors in alphabetical order. Bold style means ***Main Author***.
 
 ### 2021
+
+Vito Walter Anelli; Yashar Deldjoo; Tommaso Di Noia; **Felice Antonio Merra**, [A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders](https://www.researchgate.net/publication/355773172_A_Formal_Analysis_of_Recommendation_Quality_of_Adversarially-trained_Recommenders), CIKM 2021
 
 Vito Walter Anelli; Tommaso Di Noia; **Felice Antonio Merra**, The Idiosyncratic Effects of Adversarial Training on Bias in Personalized Recommendation Learning, RecSys 2021
 
 Vito Walter Anelli, Alejandro  Bellogin, Tommaso Di Noia, Francesco Donini, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, V-Elliot: Build, Evaluate and Tune Visual Recommender Systems, RecSys 2021
+
+Vito Walter Anelli , Tommaso Di Noia, Eugenio Di Sciascio, Daniele Malitesta and **Felice Antonio Merra**, Adversarial Attacks against Visual Recommendation: an Investigation on the Influence of Items’ Popularity, OHARS@RecSys2021
 
 Vito Walter Anelli; Yashar Deldjoo; Tommaso Di Noia; **Felice Antonio Merra**, Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality, 3rd Workshop on Adversarial Learning Methods for Machine Learning and Data Mining @ KDD 2021 (virtual workshop)
 
