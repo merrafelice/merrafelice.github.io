@@ -5,17 +5,19 @@ title: Felice Antonio Merra
 
 ## About Me
 
-*Welcome!* I am Felice Antonio Merra a Ph.D. Candidate working on Security and Adversarial Machine Learning on Recommender Systems. I am joining Amazon Science as an Applied Scientist starting from 15th November 2021 in the Search Team.
+*Welcome!* I am Felice Antonio Merra an Applied Scientist at Amazon.com working on Information Retrieval and Netural Language Processing. 
 
-I am earning my Ph.D. in Computer Science and Engineering at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalization Team.
+I am a Ph.D. Candidate working on Security and Adversarial Machine Learning on Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
+
+I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalization Team, and a research Visiting at Knowledge Media Institute under the supervision of Prof. Enrico Motta.
 
 
 **Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
 
 ## Important News
+* **[Highlight]** A novel visual based recommender model accepted in a short paper at ECIR 2022.
 * **[Highlight]** [Best Short Paper Nominations](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
 * **[Highlight]** [MIT-IBM Watson AI Lab best paper award](https://sites.google.com/view/advml/Home?authuser=0): Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality at  AdvML@KDD 2021
-* **[Highlight]** ***[Elliot](https://github.com/sisinflab/elliot)*** - An Open-source Library for Recommendation System Experiments has been accepted as Respurce Paper at SIGIR2021. [Paper](https://arxiv.org/abs/2103.02590). Novel visual and adversarial features available in the novel release (v0.3+)
 
 ----------------------------------------------------------------------------------
 
@@ -38,6 +40,10 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 
 ## Publications
 Authors in alphabetical order. Bold style means ***Main Author***.
+
+### 2022
+
+Yashar Deldjoo; Tommaso Di Noia; Daniele Malitesta; Felice Antonio Merra, [Leveraging Content-Style Item Representation for Visual Recommendation](https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation), ECIR 2022
 
 ### 2021
 
