@@ -5,17 +5,17 @@ title: Felice Antonio Merra, Ph.D.
 
 ## About Me
 
-*Welcome!* I am Felice Antonio Merra an Applied Scientist at Amazon.com working on Information Retrieval and Netural Language Processing. 
+*Welcome!* I am Felice Antonio Merra an Applied Scientist II at Amazon.com working on Information Retrieval and Netural Language Processing. 
 
-I got my Ph.D. on Security and Adversarial Machine Learning on Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
+I got my Ph.D. on Security and Adversarial Machine Learning on Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) supervised by Prof. Tommaso Di Noia. 
 
 I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalization Team, and a research Visiting at Knowledge Media Institute under the supervision of Prof. Enrico Motta.
 
 
-**Email**: [vmerrafelice@gmail.com](mailto:merrafelice@gmail.com)
+**Email**: [merrafelice@gmail.com](mailto:merrafelice@gmail.com)
 
 ## Important News
-* **[Highlight]** I have successfully defended my dissertation!
+* **[Highlight]** I have successfully defended my dissertation!  [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/PhD%20Defense.pdf)
 * **[Highlight]** A novel visual based recommender model accepted in a short paper at ECIR 2022.
 * **[Highlight]** [Best Short Paper Nominations](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
 * **[Highlight]** [MIT-IBM Watson AI Lab best paper award](https://sites.google.com/view/advml/Home?authuser=0): Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality at  AdvML@KDD 2021
