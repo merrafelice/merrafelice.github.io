@@ -1,20 +1,21 @@
 ---
 layout: default
-title: Felice Antonio Merra
+title: Felice Antonio Merra, Ph.D. 
 ---
 
 ## About Me
 
 *Welcome!* I am Felice Antonio Merra an Applied Scientist at Amazon.com working on Information Retrieval and Netural Language Processing. 
 
-I am a Ph.D. Candidate working on Security and Adversarial Machine Learning on Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
+I got my Ph.D. on Security and Adversarial Machine Learning on Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) working with Prof. Tommaso Di Noia. 
 
 I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalization Team, and a research Visiting at Knowledge Media Institute under the supervision of Prof. Enrico Motta.
 
 
-**Email**: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
+**Email**: [vmerrafelice@gmail.com](mailto:merrafelice@gmail.com)
 
 ## Important News
+* **[Highlight]** I have successfully defended my dissertation!
 * **[Highlight]** A novel visual based recommender model accepted in a short paper at ECIR 2022.
 * **[Highlight]** [Best Short Paper Nominations](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
 * **[Highlight]** [MIT-IBM Watson AI Lab best paper award](https://sites.google.com/view/advml/Home?authuser=0): Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality at  AdvML@KDD 2021
@@ -43,7 +44,11 @@ Authors in alphabetical order. Bold style means ***Main Author***.
 
 ### 2022
 
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Recommender Systems: Attack, Defense, and Advances](https://www.researchgate.net/publication/344607174_Adversarial_Recommender_Systems_Attack_Defense_and_Advances?_sg=iYjaJSPuy03RjsAc6pkdfK45Ohsq8MqyVoMFfPBflh_YwMcl5orDh0hM1yesHL1YeQFwcKl4eDR5xEmS_IHfDcGPFLJzZmoUr7LxERoU.1rx1txZDLG0dBAR-ihVtQGB9F4moO3W5xK9iciWJcowjnKOVW5GE8S-V3hV85pdcp_0u1486P6_nTPTMhPBEUA), The 3rd Edition of the **Recommender Systems Handbook**.
+
 Yashar Deldjoo; Tommaso Di Noia; Daniele Malitesta; Felice Antonio Merra, [Leveraging Content-Style Item Representation for Visual Recommendation](https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation), ECIR 2022
+
+Vito Walter Anelli, Alejandro Bellogin, Tommaso Di Noia, Francesco Donini, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, V-Elliot: Speeding up Visual Recommendation via a GPU-powered Data Input Pipeline, NVIDIA GTC 2022
 
 ### 2021
 
@@ -73,8 +78,6 @@ Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra, [A Stu
 Vito  Walter  Anelli,  Alejandro  Bellogin, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**. [MSAP: Multi-Step Adversarial Perturbations on Recommender Systems Embeddings](http://sisinflab.poliba.it/publications/2021/ABDDM21/FLAIRS2021__MSAP__Multi_Step_Adversarial_Perturbations_on_Recommender_Systems_Embeddings.pdf), FLAIRS 2021
 
 Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks](http://sisinflab.poliba.it/publications/2021/DDM21/ACM_CSUR_Survey_AdL.pdf), ACM Computing Surveys, March 2021
-
-Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Recommender Systems: Attack, Defense, and Advances](https://www.researchgate.net/publication/344607174_Adversarial_Recommender_Systems_Attack_Defense_and_Advances?_sg=iYjaJSPuy03RjsAc6pkdfK45Ohsq8MqyVoMFfPBflh_YwMcl5orDh0hM1yesHL1YeQFwcKl4eDR5xEmS_IHfDcGPFLJzZmoUr7LxERoU.1rx1txZDLG0dBAR-ihVtQGB9F4moO3W5xK9iciWJcowjnKOVW5GE8S-V3hV85pdcp_0u1486P6_nTPTMhPBEUA), The 3rd Edition of the **Recommender Systems Handbook**.
 
 ### 2020
 
