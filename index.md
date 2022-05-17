@@ -7,7 +7,7 @@ title: Felice Antonio Merra, Ph.D.
 
 *Welcome!* I am Felice Antonio Merra an Applied Scientist II at Amazon.com working on Information Retrieval and Netural Language Processing. 
 
-I got my Ph.D. on Security and Adversarial Machine Learning on Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) supervised by Prof. Tommaso Di Noia. 
+I graduated as Ph.D. cum laude defending a Ph.D. Thesis on Adversarial Machine Learning in Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) supervised by Prof. Tommaso Di Noia. 
 
 I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Search and Personalization Team, and a research Visiting at Knowledge Media Institute under the supervision of Prof. Enrico Motta.
 
@@ -45,6 +45,10 @@ Authors in alphabetical order. Bold style means ***Main Author***.
 ### 2022
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Recommender Systems: Attack, Defense, and Advances](https://www.researchgate.net/publication/344607174_Adversarial_Recommender_Systems_Attack_Defense_and_Advances?_sg=iYjaJSPuy03RjsAc6pkdfK45Ohsq8MqyVoMFfPBflh_YwMcl5orDh0hM1yesHL1YeQFwcKl4eDR5xEmS_IHfDcGPFLJzZmoUr7LxERoU.1rx1txZDLG0dBAR-ihVtQGB9F4moO3W5xK9iciWJcowjnKOVW5GE8S-V3hV85pdcp_0u1486P6_nTPTMhPBEUA), The 3rd Edition of the **Recommender Systems Handbook**.
+
+Jacek Golebiowski, Felice Antonio Merra, Ziawasch Abedjan, Felix Biessmann, [Search Filter Ranking with Language-Aware Label Embeddings](https://www2022.thewebconf.org/PaperFiles/34.pdf), TheWebConf 2022
+
+Vito Walter Anelli, Alejandro  Bellogin, Tommaso Di Noia, Francesco Donini, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo,The challenging reproducibility task in Recommender Systems research between traditional and Deep Learning models, SEBD 2022
 
 Yashar Deldjoo; Tommaso Di Noia; Daniele Malitesta; Felice Antonio Merra, [Leveraging Content-Style Item Representation for Visual Recommendation](https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation), ECIR 2022
 
