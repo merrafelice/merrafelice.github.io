@@ -5,7 +5,7 @@ title: Felice Antonio Merra, Ph.D.
 
 ## About Me
 
-*Welcome!* I am Felice Antonio Merra an Applied Scientist II at Amazon.com working on Information Retrieval and Netural Language Processing. 
+*Welcome!* I am Felice Antonio Merra an Applied Scientist II at Amazon.com working on Information Retrieval and Netural Language Processing for Amazon Search.
 
 I graduated as Ph.D. cum laude defending a Ph.D. Thesis on Adversarial Machine Learning in Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) supervised by Prof. Tommaso Di Noia. 
 
