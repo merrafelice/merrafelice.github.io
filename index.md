@@ -42,6 +42,9 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 ## Publications
 Authors in alphabetical order. Bold style means ***Main Author***.
 
+### 2023
+**Felice Antonio Merra**, Omar Zaidan, Fabricio de Soursa Nascimento, Improving the Relevance of Product Search for Queries with Negations, The 32nd Web Conference 2023, Austin, Texas (WWW 2023).
+
 ### 2022
 
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Felice Antonio Merra**, [Adversarial Recommender Systems: Attack, Defense, and Advances](https://www.researchgate.net/publication/344607174_Adversarial_Recommender_Systems_Attack_Defense_and_Advances?_sg=iYjaJSPuy03RjsAc6pkdfK45Ohsq8MqyVoMFfPBflh_YwMcl5orDh0hM1yesHL1YeQFwcKl4eDR5xEmS_IHfDcGPFLJzZmoUr7LxERoU.1rx1txZDLG0dBAR-ihVtQGB9F4moO3W5xK9iciWJcowjnKOVW5GE8S-V3hV85pdcp_0u1486P6_nTPTMhPBEUA), The 3rd Edition of the **Recommender Systems Handbook**.
