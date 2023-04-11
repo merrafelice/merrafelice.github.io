@@ -15,8 +15,8 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [merrafelice@gmail.com](mailto:merrafelice@gmail.com)
 
 ## Important News
-* **[Highlight]** Paper accepted at SIGIR 2023 on a defense strategies for recommender systems.
-* **[Highlight]** Paper accepted at WWW 2023 on improvements for e-commerce applications [Paper](https://www.amazon.science/publications/improving-the-relevance-of-product-search-for-queries-with-negations)
+* **[Highlight]** Paper accepted at SIGIR 2023 on a defense strategies for recommender systems. [Announcement](https://twitter.com/merrafelice/status/1643561460138749952)
+* **[Highlight]** Paper accepted at WWW 2023 on improvements for e-commerce applications. [Paper](https://www.amazon.science/publications/improving-the-relevance-of-product-search-for-queries-with-negations)
 * **[Highlight]** Ph.D. Graduation cum Laude.  [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/PhD%20Defense.pdf)
 * **[Highlight]** [Best Short Paper - Runner Up](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
 * **[Highlight]** [MIT-IBM Watson AI Lab best paper award](https://sites.google.com/view/advml/Home?authuser=0): Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality at  AdvML@KDD 2021
