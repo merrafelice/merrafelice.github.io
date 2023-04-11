@@ -20,9 +20,10 @@ sass:
 nav:
  - name: "Home"
    link: "https://merrafelice.github.io"
- - name: "Resume"
+ - name: "Curriculum Vitae"
+   link: "Curriculum Merra Felice Antonio - English.pdf"
+ - name: "Scientific Resume"
    link: "resume.pdf"
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
