@@ -5,7 +5,7 @@ title: Felice Antonio Merra, Ph.D.
 
 ## About Me
 
-*Welcome!* I am Felice Antonio Merra an Applied Scientist II at Amazon.com working on Information Retrieval and Netural Language Processing for Amazon Search.
+*Welcome!* I am Felice Antonio Merra an Applied Scientist II at Amazon.com working on Information Retrieval, Recommender Systems and Netural Language Processing for Amazon Search.
 
 I graduated as Ph.D. cum laude defending a Ph.D. Thesis on Adversarial Machine Learning in Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) supervised by Prof. Tommaso Di Noia. 
 
@@ -15,9 +15,10 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [merrafelice@gmail.com](mailto:merrafelice@gmail.com)
 
 ## Important News
-* **[Highlight]** I have successfully defended my dissertation!  [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/PhD%20Defense.pdf)
-* **[Highlight]** A novel visual based recommender model accepted in a short paper at ECIR 2022.
-* **[Highlight]** [Best Short Paper Nominations](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
+* **[Highlight]** Paper accepted at SIGIR 2023 on a defense strategies for recommender systems.
+* **[Highlight]** Paper accepted at WWW 2023 on improvements for e-commerce applications [Paper](https://www.amazon.science/publications/improving-the-relevance-of-product-search-for-queries-with-negations)
+* **[Highlight]** Ph.D. Graduation cum Laude.  [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/PhD%20Defense.pdf)
+* **[Highlight]** [Best Short Paper - Runner Up](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
 * **[Highlight]** [MIT-IBM Watson AI Lab best paper award](https://sites.google.com/view/advml/Home?authuser=0): Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality at  AdvML@KDD 2021
 
 ----------------------------------------------------------------------------------
@@ -43,7 +44,9 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 Authors in alphabetical order. Bold style means ***Main Author***.
 
 ### 2023
-**Felice Antonio Merra**, Omar Zaidan, Fabricio de Soursa Nascimento, Improving the Relevance of Product Search for Queries with Negations, The 32nd Web Conference 2023, Austin, Texas (WWW 2023).
+**Felice Antonio Merra**, Vito Walter Anelli, Tommaso DI Noia, Daniele Malitesta, Alberto Macino, [Denoise to protect: a method to robustify visual recommenders from adversaries]() The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, Taipei, Taiwan (SIGIR 2023).
+
+**Felice Antonio Merra**, Omar Zaidan, Fabricio de Soursa Nascimento, [Improving the Relevance of Product Search for Queries with Negations](https://www.amazon.science/publications/improving-the-relevance-of-product-search-for-queries-with-negations), The 32nd Web Conference 2023, Austin, Texas (WWW 2023).
 
 ### 2022
 
