@@ -3,9 +3,10 @@ layout: default
 is_contact: true
 ---
 
-* Email: [felice.merra@poliba.it](mailto:felice.merra@poliba.it)
+* Email: [merrafelice@gmail.com](mailto:merrafelice@gmail.com)
 
-* Phone: [+39-3404213560](tel:+39-3404213560)
+* Phone (IT): [+39-3404213560](tel:+39-3404213560)
+* Phone (DE): [+49-17683275356](tel:+49-17683275356)
 
 * Mailing Address: Via Edoardo Orabona, 4, Bari, Italy
 
@@ -15,3 +16,4 @@ is_contact: true
 
 1. [Twitter](https://twitter.com/merrafelice)
 2. [LinkedIn](https://www.linkedin.com/in/feliceantoniomerra)
+3. [Amazon Science](https://www.amazon.science/author/felice-merra)
