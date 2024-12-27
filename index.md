@@ -5,7 +5,9 @@ title: Felice Antonio Merra, Ph.D.
 
 ## About Me
 
-*Welcome!* I am Felice Antonio Merra an Applied Scientist II at Amazon.com working on Information Retrieval, Recommender Systems and Netural Language Processing for Amazon Search.
+*Welcome!* I am Felice Antonio Merra. I am working as a Science Manager at Cognism.com leading a team of 5+ scientists.
+
+Before joining Cognism, I have been working for 3 years as an Applied Scientist at Amazon.com working on Generative AI (Rufus and AmazonQ), Information Retrieval (Amazon Search), Recommender Systems and Natural Language Processing.
 
 I graduated as Ph.D. cum laude defending a Ph.D. Thesis on Adversarial Machine Learning in Recommender Systems at Department of Electrical Engineering and Information Technology, Polytechnic University of Bari [@PolibaOfficial](https://twitter.com/PolibaOfficial) supervised by Prof. Tommaso Di Noia. 
 
@@ -15,8 +17,8 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [merrafelice@gmail.com](mailto:merrafelice@gmail.com)
 
 ## Important News
-* **[Highlight]** Paper accepted at SIGIR 2023 on a defense strategies for recommender systems. [Announcement](https://twitter.com/merrafelice/status/1643561460138749952)
-* **[Highlight]** Paper accepted at WWW 2023 on improvements for e-commerce applications. [Paper](https://www.amazon.science/publications/improving-the-relevance-of-product-search-for-queries-with-negations)
+* **[Highlight]** arXiv paper on Bayesian optimized prompt engineering. [Hyperband-based Bayesian Optimization for Black-box Prompt Selection](https://arxiv.org/pdf/2412.07820)
+* **[Highlight]** Formalizing multimedia recommendation through multimodal deep learning is out on https://dl.acm.org/doi/abs/10.1145/3662738.
 * **[Highlight]** Ph.D. Graduation cum Laude.  [Slides](https://github.com/merrafelice/merrafelice.github.io/blob/master/PhD%20Defense.pdf)
 * **[Highlight]** [Best Short Paper - Runner Up](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
 * **[Highlight]** [MIT-IBM Watson AI Lab best paper award](https://sites.google.com/view/advml/Home?authuser=0): Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality at  AdvML@KDD 2021
@@ -25,7 +27,7 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 
 ## Research Interest
 
-My research activities mainly focus on artificial intelligence (AI). My investigation is devoted to novel approaches and applying machine learning (ML) algorithms, particularly to Trustworthy AI. In particular, I devote my attention to recommender system (RS) applications to study the robustness of modern ML recommender models affected by adversarial threats. 
+My research activities mainly focus on artificial intelligence (AI). My investigation is devoted to novel approaches and applying machine learning (ML) algorithms, particularly to Trustworthy AI and Generative AI. In particular, I devote my attention to recommender system (RS) applications to study the robustness of modern ML recommender models affected by adversarial threats. 
 
 After having assessed the state-of-the-art of AML techniques in RS, I am invetsigating three main areas of study:
 
@@ -43,7 +45,19 @@ For more information you can look at my [Curriculum Vitae](https://merrafelice.g
 ## Publications
 Authors in alphabetical order. Bold style means ***Main Author***.
 
+### 2024
+
+Lennart Schneider, Martin Wistuba, Aaron Klein, Jacek Golebiowski, Giovanni Zappella, Felice Antonio Merra, [Hyperband-based Bayesian Optimization for Black-box Prompt Selection](https://arxiv.org/pdf/2412.07820), Under Revision
+
+**Felice Antonio Merra**, Anelli Vito Walter, YasharDeldjoo, Tommaso Di Noia, Eugenio Di Sciascio, [Empowering shilling attacks with Katz and Exclusivity-based relatedness](https://ceur-ws.org/Vol-3817/long2.pdf), KARS@RecSys2024
+
+Daniele Malitesta, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio, [Formalizing Multimedia Recommendation through Multimodal Deep Learning
+](https://dl.acm.org/doi/abs/10.1145/3662738), ACM Transactions on Recommender Systems Accepted on 18 April 2024
+
 ### 2023
+
+**Felice Antonio Merra**, [Adversarial Machine Learning in Recommender Systems (Dissertation Abstract)](https://tesidottorato.depositolegale.it/handle/20.500.14242/64394)
+
 **Felice Antonio Merra**, Vito Walter Anelli, Tommaso DI Noia, Daniele Malitesta, Alberto Macino, [Denoise to protect: a method to robustify visual recommenders from adversaries]() The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, Taipei, Taiwan (SIGIR 2023).
 
 **Felice Antonio Merra**, Omar Zaidan, Fabricio de Soursa Nascimento, [Improving the Relevance of Product Search for Queries with Negations](https://www.amazon.science/publications/improving-the-relevance-of-product-search-for-queries-with-negations), The 32nd Web Conference 2023, Austin, Texas (WWW 2023).
