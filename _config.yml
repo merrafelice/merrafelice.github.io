@@ -21,7 +21,7 @@ nav:
  - name: "Home"
    link: "https://merrafelice.github.io"
  - name: "Curriculum Vitae"
-   link: "Curriculum Merra Felice Antonio - English.pdf"
+   link: "Curriculum Merra Felice Antonio - English-1.pdf"
  - name: "Scientific Resume"
    link: "resume.pdf"
 plugins:
@@ -30,12 +30,12 @@ plugins:
 
 # Tags
 
-description: "Felice Antonio Merra's Personal Blog. Follow my research activity! @merrafelice"
+description: "Felice Antonio Merra's Personal Blog."
 author: "Felice Antonio Merra"
 
 twitter:
   username: merrafelice
-  card: "Felice Antonio Merra's Personal Blog. Follow my research activity! @merrafelice"
+  card: "Felice Antonio Merra's Personal Blog."
 
 image: /profile.jpg
 #image: /felice-merra.png
