@@ -17,7 +17,7 @@ I did a Summer Internship as Applied Scientist at Amazon.com in the Amazon Searc
 **Email**: [merrafelice@gmail.com](mailto:merrafelice@gmail.com)
 
 ## Important News
-* **[Highlight]** I'll be service RecSys 2026 as Industrial co-chair
+* **[Highlight]** I'll be servicing RecSys 2026 as Industrial co-chair
 * **[Highlight]** [Best Short Paper](https://sigir.org/awards/best-short-paper-awards/): Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M at SIGIR 2025
 * **[Highlight]** ICML'25 accepted paper on Bayesian optimized prompt engineering. [Hyperband-based Bayesian Optimization for Black-box Prompt Selection](https://arxiv.org/pdf/2412.07820)
 * **[Highlight]** [Best Short Paper - Runner Up](http://www.cikm2021.org/programme/best-paper-nominations): A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders at CIKM 2021
