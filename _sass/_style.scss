@@ -11,8 +11,13 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
     height: 100%;
+}
+code, pre, kbd {
+    font-family: "Inconsolata", monospace;
 }
 a {
     text-decoration: none;
@@ -157,8 +162,8 @@ hr {
 }
 
 .sharebuttons ul li svg {
-  width: 24px !important;
-  height: 24px !important;
+  width: 28px !important;
+  height: 28px !important;
 }
 
 
@@ -176,4 +181,38 @@ hr {
 
 .sharebuttons .researchgate svg {
   fill: #00CCBB !important;
+}
+
+/*
+ * Lightweight grid to replace Bootstrap 3
+ */
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.col-sm-3,
+.col-sm-4,
+.col-sm-8,
+.col-sm-9 {
+  padding-left: 15px;
+  padding-right: 15px;
+  box-sizing: border-box;
+}
+
+.col-sm-3  { width: 25%; }
+.col-sm-4  { width: 33.333%; }
+.col-sm-8  { width: 66.667%; }
+.col-sm-9  { width: 75%; }
+
+@media (max-width: 800px) {
+  .col-sm-3,
+  .col-sm-4,
+  .col-sm-8,
+  .col-sm-9 {
+    width: 100%;
+  }
 }

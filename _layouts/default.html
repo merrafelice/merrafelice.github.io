@@ -22,11 +22,7 @@
         {% assign url = site.url | append: site.baseurl | append: page.url %}
     {% endif %}
     <meta name="description" content="{{ desc }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Inconsolata:wght@400;700&display=swap' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     {% if site.favicon %}
@@ -119,28 +115,24 @@
             </div>
     </div>
 
+    {% if site.footer == true %}
+    <footer>
+        <div class="container content">
+            <hr />
+            <p style="text-align: center; margin-bottom: 10px">
+                <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}.</small></a>
+            </p>
+        </div>
+    </footer>
+    {% endif %}
+
     {% if site.tracking_id %}
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.tracking_id }}"></script>
         <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-          ga('create', '{{ site.tracking_id }}', 'auto');
-          ga('send', 'pageview');
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '{{ site.tracking_id }}');
         </script>
     {% endif %}
 </body>
-<footer>
-
-    {% if site.footer == true %}
-    <div class="container content">
-        <hr />
-        <p style="text-align: center; margin-bottom: 10px">
-            <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}.</small></a>
-            <small>Icons made by </small><a href="https://www.flaticon.com/authors/darius-dan" title="Darius Dan" style="color: black"><small>Darius Dan</small></a>
-            <small> from </small><a href="https://www.flaticon.com/" title="Flaticon" style="color: black"><small>www.flaticon.com</small></a>
-            <small> is licensed by </small><a href="http://creativecommons.org/licenses/by/3.0/"  title="Creative Commons BY 3.0" style="color: black" target="_blank"><small>CC 3.0 BY</small></a>
-        </p>
-    </div>
-    {% endif %}
-</footer>
