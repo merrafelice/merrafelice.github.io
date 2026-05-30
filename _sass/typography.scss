@@ -4,6 +4,12 @@
     a:hover {
         text-decoration: underline;
     }
+    h2 {
+        margin-top: 2.5rem;
+        margin-bottom: 0.5rem;
+        font-size: 1.25rem;
+        font-weight: 600;
+    }
     ol {
         counter-reset: list;
     }

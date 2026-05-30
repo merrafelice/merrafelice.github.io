@@ -23,8 +23,6 @@ During my Ph.D., I completed a Summer Internship as an Applied Scientist at Amaz
 * `[2021]` **[Best Short Paper — Runner Up](http://www.cikm2021.org/programme/best-paper-nominations)** — A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders — CIKM 2021
 * `[2021]` **[Best Paper Award — MIT-IBM Watson AI Lab](https://sites.google.com/view/advml/Home?authuser=0)** — Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality — AdvML@KDD 2021
 
-----------------------------------------------------------------------------------
-
 ## Research Interest
 
 My research activities mainly focus on artificial intelligence (AI). My investigation is devoted to novel approaches and applying machine learning (ML) algorithms, particularly to Trustworthy AI and Generative AI. In particular, I devote my attention to recommender system (RS) applications to study the robustness of modern ML recommender models affected by adversarial threats. 
@@ -39,8 +37,6 @@ After having assessed the state-of-the-art of AML techniques in RS, I am investi
 I continue to investigate AML approaches across ML tasks — including computer vision and reinforcement learning — with the goal of keeping end users at the core of my research and assessing how much they can trust an ML system.
 
 For more information you can look at my [Curriculum Vitae](https://merrafelice.github.io/resume.pdf). 
-
-----------------------------------------------------------------------------------
 
 ## Publications
 
