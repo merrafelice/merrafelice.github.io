@@ -5,7 +5,7 @@ title: Felice Antonio Merra, Ph.D.
 
 ## About Me
 
-*Welcome!* I am Felice Antonio Merra. I am working as a Senior Data Science Manager at Cognism.com.
+*Welcome!* I am Felice Antonio Merra. I am working as a Senior Data Science Manager at Cognism.com. I am also serving as Industry Co-Chair at [RecSys 2026](https://recsys.acm.org/recsys26/).
 
 Before joining Cognism, I have been working for more than 3 years as an Applied Scientist at Amazon.com working on Generative AI (Rufus and AmazonQ), Information Retrieval (Amazon Search), Recommender Systems and Natural Language Processing.
 
