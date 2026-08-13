@@ -21,9 +21,7 @@ nav:
  - name: "Home"
    link: "https://merrafelice.github.io"
  - name: "Curriculum Vitae"
-   link: "Curriculum Merra Felice Antonio - English-1.pdf"
- - name: "Scientific Resume"
-   link: "resume.pdf"
+   link: "Merra_Felice_Antonio_CV.pdf"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
