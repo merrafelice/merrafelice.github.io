@@ -5,9 +5,9 @@ title: Felice Antonio Merra, Ph.D.
 
 ## About Me
 
-*Welcome!* I am Felice Antonio Merra, a Senior Data Science Manager at [Cognism](https://cognism.com). I am also serving as Industry Co-Chair at [RecSys 2026](https://recsys.acm.org/recsys26/).
+*Welcome!* I am Felice Antonio Merra, a Senior Data Science and Analytics Manager at [Cognism](https://cognism.com), where I lead and scale the Science and Analytics organisation — spanning Data Science, Data Analytics, and co-owned MLOps planning. I am also serving as Industry Co-Chair at [RecSys 2026](https://recsys.acm.org/recsys26/).
 
-Before joining Cognism, I worked for more than 3 years as an Applied Scientist at Amazon.com, contributing to Generative AI products (Rufus and AmazonQ), Information Retrieval (Amazon Search), Recommender Systems, and Natural Language Processing.
+Before joining Cognism, I worked for 3 years as an Applied Scientist at Amazon.com, contributing to Generative AI products (Amazon Q), Information Retrieval (Amazon Search), Recommender Systems, and Natural Language Processing.
 
 I hold a Ph.D. cum laude in Adversarial Machine Learning in Recommender Systems from the Department of Electrical Engineering and Information Technology, Polytechnic University of Bari — [@PolibaOfficial](https://twitter.com/PolibaOfficial) — supervised by Prof. Tommaso Di Noia.
 
